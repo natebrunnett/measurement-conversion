@@ -1,3 +1,10 @@
+# Getting Started with the measurement-conversion app
+
+    $ git clone ...git link...
+    $ cd measurement-conversion & npm i
+    $ npm start
+    visit -> http://localhost:3000/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
